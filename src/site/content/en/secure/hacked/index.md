@@ -10,6 +10,8 @@ tags:
 ---
 
 Every day, cybercriminals compromise thousands of websites. Hacks are often invisible to users, yet remain harmful to anyone viewing the page—including the site owner. For example, a hacker may have infected your site with harmful code which in turn can record keystrokes on visitors' computers, stealing login credentials for online banking or financial transactions. If you're not sure whether or not your site was hacked, start by reading [how do I know if my site is hacked](/secure/how-do-i-know-if-my-site-was-hacked/)?
+Some Common Hacking Techniques and prevention That Every Website Should Know About
+https://www.hindiburner.com/mobile/mobile-hacking-kya-7-way-2022/
 
 
 <figure>
